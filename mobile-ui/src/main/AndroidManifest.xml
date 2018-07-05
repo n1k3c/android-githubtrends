@@ -2,6 +2,7 @@
           package="com.n1x0nj4.mobile_ui">
 
     <application
+            android:name=".GithubTrendsApplication"
             android:allowBackup="true"
             android:label="@string/app_name"
             android:icon="@mipmap/ic_launcher"
